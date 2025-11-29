@@ -1,10 +1,9 @@
 {
   "name": "clone-tabnews",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implementação do https://www.tabnews.com.br",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next dev"
   },
   "author": "",

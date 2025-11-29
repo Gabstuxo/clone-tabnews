@@ -5,7 +5,7 @@ function Home() {
     // Função que só funciona dentro do componente Home
     // Ela roda quando o botão for clicado
     function Botaoteste() {
-        alert("Você clicou no botão 'ava'") // Mensagem exibida quando clicar
+        alert("Vai desistir não vagabundo !!!") // Mensagem exibida quando clicar
     }
 
     // Return é que a função devolve! Tudo dentro do return é o que aparece na tela
@@ -14,7 +14,7 @@ function Home() {
             
             <h1>Hello World</h1> {/* Título grande na tela */}
 
-            <p>Estou aprendendo a programar</p> {/* Texto normal */}
+            <p>Estou aprendendo a programargit</p> {/* Texto normal */}
 
             <p>E esta sendo uma batalha fortissima</p> {/* Outro texto */}
 
@@ -24,7 +24,8 @@ function Home() {
     )
 }
 
-// Permite que outros arquivos usem o componente Home
+// export manda pra o site oque esta sendo referido(default) deixa como padrão sempre essa função
+//Export default home = mandando pra fora padrão a função home lá de cima
 export default Home
 
 //Colocamos esse default para deixar como a tela padrão da pagina
@@ -32,7 +33,8 @@ export default Home
 //Home = nome da função (pode ser qualquer nome)
 //() = parênteses onde você pode passar informações (vazio por enquanto)
 //{} = chaves onde fica o código
-
+//👉 Fora do return → //
+//👉 Dentro do return → {/* ... */}
 
 
 
