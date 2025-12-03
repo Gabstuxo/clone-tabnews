@@ -36,7 +36,7 @@ export default Home
 //👉 Fora do return → //
 //👉 Dentro do return → {/* ... */}
 
-
+//tentando acertar o jeito de fazer codigo em qualquer lugar
 
 
 
