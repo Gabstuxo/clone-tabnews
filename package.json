@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Learning project with cruso.dev — building a solid foundation in programming - from 0 to dev",
+  "homepage": "https://github.com/Gabstuxo/clone-tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/Gabstuxo/clone-tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabstuxo/clone-tabnews.git"
+  },
+  "license": "MIT",
+  "author": "Gabstuxo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
